@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "gbif-api-agents"
+version = "0.1.0"
+description = ""
+authors = ["Federico Méndez <federicomh@gmail.com>"]
+readme = "README.md"
+
+[tool.langserve]
+export_module = "gbif_api_agents"
+export_attr = "chain
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

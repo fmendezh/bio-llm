@@ -1,0 +1,68 @@
+list GBIF datasets of publishingCountry AU and type OCCURRENCE.
+list GBIF datasets of hostingCountry AU and type OCCURRENCE.
+list GBIF datasets of publishingCountry AU and type OCCURRENCE and license CC_BY_4_0.
+list GBIF datasets of publishingCountry AU and type OCCURRENCE and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry CR and type OCCURRENCE.
+list GBIF datasets of hostingCountry CR and type OCCURRENCE.
+list GBIF datasets of publishingCountry CR and type OCCURRENCE and license CC_BY_4_0.
+list GBIF datasets of publishingCountry CR and type OCCURRENCE and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry DK and type OCCURRENCE.
+list GBIF datasets of hostingCountry DK and type OCCURRENCE.
+list GBIF datasets of publishingCountry DK and type OCCURRENCE and license CC_BY_4_0.
+list GBIF datasets of publishingCountry DK and type OCCURRENCE and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry ES and type OCCURRENCE.
+list GBIF datasets of hostingCountry ES and type OCCURRENCE.
+list GBIF datasets of publishingCountry ES and type OCCURRENCE and license CC_BY_4_0.
+list GBIF datasets of publishingCountry ES and type OCCURRENCE and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry US and type OCCURRENCE.
+list GBIF datasets of hostingCountry US and type OCCURRENCE.
+list GBIF datasets of publishingCountry US and type OCCURRENCE and license CC_BY_4_0.
+list GBIF datasets of publishingCountry US and type OCCURRENCE and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry AU and type CHECKLIST.
+list GBIF datasets of hostingCountry AU and type CHECKLIST.
+list GBIF datasets of publishingCountry AU and type CHECKLIST and license CC_BY_4_0.
+list GBIF datasets of publishingCountry AU and type CHECKLIST and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry CR and type CHECKLIST.
+list GBIF datasets of hostingCountry CR and type CHECKLIST.
+list GBIF datasets of publishingCountry CR and type CHECKLIST and license CC_BY_4_0.
+list GBIF datasets of publishingCountry CR and type CHECKLIST and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry DK and type CHECKLIST.
+list GBIF datasets of hostingCountry DK and type CHECKLIST.
+list GBIF datasets of publishingCountry DK and type CHECKLIST and license CC_BY_4_0.
+list GBIF datasets of publishingCountry DK and type CHECKLIST and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry ES and type CHECKLIST.
+list GBIF datasets of hostingCountry ES and type CHECKLIST.
+list GBIF datasets of publishingCountry ES and type CHECKLIST and license CC_BY_4_0.
+list GBIF datasets of publishingCountry ES and type CHECKLIST and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry US and type CHECKLIST.
+list GBIF datasets of hostingCountry US and type CHECKLIST.
+list GBIF datasets of publishingCountry US and type CHECKLIST and license CC_BY_4_0.
+list GBIF datasets of publishingCountry US and type CHECKLIST and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry AU and type METADATA.
+list GBIF datasets of hostingCountry AU and type METADATA.
+list GBIF datasets of publishingCountry AU and type METADATA and license CC_BY_4_0.
+list GBIF datasets of publishingCountry AU and type METADATA and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry CR and type METADATA.
+list GBIF datasets of hostingCountry CR and type METADATA.
+list GBIF datasets of publishingCountry CR and type METADATA and license CC_BY_4_0.
+list GBIF datasets of publishingCountry CR and type METADATA and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry DK and type METADATA.
+list GBIF datasets of hostingCountry DK and type METADATA.
+list GBIF datasets of publishingCountry DK and type METADATA and license CC_BY_4_0.
+list GBIF datasets of publishingCountry DK and type METADATA and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry ES and type METADATA.
+list GBIF datasets of hostingCountry ES and type METADATA.
+list GBIF datasets of publishingCountry ES and type METADATA and license CC_BY_4_0.
+list GBIF datasets of publishingCountry ES and type METADATA and license CC_BY_NC_4_0.
+list GBIF datasets of publishingCountry US and type METADATA.
+list GBIF datasets of hostingCountry US and type METADATA.
+list GBIF datasets of publishingCountry US and type METADATA and license CC_BY_4_0.
+list GBIF datasets of publishingCountry US and type METADATA and license CC_BY_NC_4_0.
+list GBIF species with nameType SCIENTIFIC.
+list GBIF species with nameType SCIENTIFIC in habitat MARINE.
+list GBIF species with nameType SCIENTIFIC in habitat FRESHWATER.
+list GBIF species with nameType SCIENTIFIC in habitat TERRESTRIAL.
+list GBIF species with nameType OTU.
+list GBIF species with nameType OTU in habitat MARINE.
+list GBIF species with nameType OTU in habitat FRESHWATER.
+list GBIF species with nameType OTU in habitat TERRESTRIAL.
